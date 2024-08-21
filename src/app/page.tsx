@@ -27,9 +27,6 @@ export default function Component(): JSX.Element {
           <Link className="text-sm font-medium text-white hover:underline underline-offset-4" href="#how-to-buy">
             How to Buy
           </Link>
-          <Link className="text-sm font-medium text-white hover:underline underline-offset-4" href="#about">
-            About
-          </Link>
         </nav>
       </header>
       <motion.section 
